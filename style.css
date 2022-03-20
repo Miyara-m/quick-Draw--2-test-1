@@ -1,0 +1,44 @@
+body
+{
+    background-size: cover;
+}
+#show_sketch{
+color: brown;
+border-width: 4px;
+border-radius: 5px;
+border-color: rgb(112, 47, 17);
+background-color:goldenrod;
+float: right;
+}
+h1
+{
+    font-family: cursive;
+    color: crimson;
+}
+p
+{
+    font-family: fantasy;
+    color: darkmagenta;
+    font-size: medium;
+} 
+#score
+{
+    color: deeppink;
+    font-family: fantasy;
+    font-size: 45px;
+    float: left;
+}
+#timer
+{
+    color: deeppink;
+    font-family: fantasy;
+    font-size:45px;
+    float: right;
+}
+canvas
+{
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: goldenrod;
+    background-color: white;
+}
